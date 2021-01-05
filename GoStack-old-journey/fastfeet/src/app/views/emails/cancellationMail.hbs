@@ -1,0 +1,26 @@
+{{> header}}
+<div style="text-align: left; margin: 0;">
+    <strong
+    style="
+      display: block;
+      font-size: 20px;
+      margin: 25px 0;
+    ">Olá, <span style="color: #7D40E7;">{{ name }}</span></strong>
+    <p style="display: block;">
+      Uma encomenda acabou de ser
+      <span style="color: #FF0000; font-weight: bold;">CANCELADA</span>, por favor confira a descrição abaixo e mais informações em fastfeet.com.
+    </p>
+    <p style="display: block;">
+      <strong>Produto:</strong>
+      <span style="color: #FF0000; font-weight: bold;">{{ product }}</span>
+    </p>
+    <h3>Destinatário</h3>
+    <ul style="list-style: none;">
+      <li><strong>Nome:</strong> {{ recipientName }}</li>
+      <li><strong>E-mail:</strong> {{ email }}</li>
+      <li><strong>Número:</strong> {{ number }}</li>
+      <li><strong>Cidade:</strong> {{ city }}, {{ state }} </li>
+      <li><strong>Endereço:</strong> {{ street }}</li>
+    </ul>
+</div>
+
