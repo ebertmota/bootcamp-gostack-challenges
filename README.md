@@ -12,7 +12,7 @@
 </p>
 
 <h2>Objetivo</h2>
-<p>O repositório tem como objetivo compartilhar e demonstrar meus conhecimentos obtidos através dos desafios proposto neste bootcamp.</h2>
+<p>O repositório tem como objetivo compartilhar e demonstrar meus conhecimentos obtidos através dos desafios propostos neste bootcamp.</h2>
 
 ---
 Made with :blue_heart: by Ebert Mota
